@@ -4,6 +4,6 @@
   "author": "Formula One Airline",
   "aircraft": "boeing777",
   "textures": {
-    "diffuse": "https://raw.githubusercontent.com/yzhu2/Formula-one-airline/main/B777_FormulaOneAirline.png"
+    "diffuse": "https://raw.githubusercontent.com/yzhu2/formula-one-airline/main/B777_FormulaOneAirline.png"
   }
 }
